@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">capstone2</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+</resources>
